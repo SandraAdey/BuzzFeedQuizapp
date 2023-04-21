@@ -4,19 +4,19 @@ const answerDisplay = document.querySelector("#answer");
 const questions = [
   {
     id: 0,
-    text: "Pick a vacation destination:",
+    text: "Pick something to munch on:",
     answers: [
       {
-        text: "New York",
+        text: "Ham and Cheese",
         image:
-          "https://images.unsplash.com/photo-1534430480872-3498386e7856?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "https://digitalcontent.api.tesco.com/v2/media/ghs/cbf501c4-dabc-4220-a429-1bba3f71cd79/186090cb-0f5c-40c5-8ee7-6aa5d6faea7e.jpeg?h=540&w=540",
         alt: "Photo of the Empire State building during daytime",
         credit: "Oliver Niblett",
       },
       {
-        text: "Austin",
+        text: "BLT",
         image:
-          "https://images.unsplash.com/photo-1531218150217-54595bc2b934?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjczMTc0fQ&fit=crop&h=230&w=320&crop=edges",
+          "https://digitalcontent.api.tesco.com/v2/media/ghs/fb8964c4-a231-4f30-9151-51c88dc70638/414c765f-7303-44b5-a027-1a38b385b856.jpeg?h=540&w=540",
         alt: "Time-lapse photography car lights on bridge",
         credit: "Carlos Alfonso",
       },
