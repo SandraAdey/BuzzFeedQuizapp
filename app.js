@@ -96,7 +96,7 @@ const questions = [
         credit: "Phil Hearing",
       },
       {
-        text: "Mountains",
+        text: "Popcorn",
         image:
           "https://digitalcontent.api.tesco.com/v2/media/ghs/25996ce1-c28d-493d-b671-0ebfabaf9c89/a7d6673d-a145-448c-98a5-758e125b0a2f_2132253811.jpeg?h=225&w=225",
         alt: "brown wooden cabin infront of forest",
@@ -122,10 +122,10 @@ const answers = [
     alt: "Cheddar cheese",
   },
   {
-    combination: ["Portland", "Sandwich", "Mountains"],
+    combination: ["Portland", "Sandwich", "Popcorn"],
     text: "Feta",
     image:
-      "https://images.unsplash.com/photo-1626957341926-98752fc2ba90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80",
+      "https://assets.entrepreneur.com/content/3x2/2000/eating-lunch-at-desk-work.jpg",
     alt: "Feta cheese",
   },
   {
